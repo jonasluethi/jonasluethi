@@ -1,6 +1,7 @@
 Hi 👋 My name is Jonas Lüthi
 ============================
-Medical Informatics-------------------
+Medical Informatics
+-------------------
 * 🌍  I'm based in Switzerland
 * 🧠  I'm learning Next.js & Subapase
 
