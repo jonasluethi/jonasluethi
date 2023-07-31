@@ -3,7 +3,7 @@ Hi 👋 My name is Jonas Lüthi
 Medical Informatics
 -------------------
 * 🌍  I'm based in Switzerland
-* 🧠  I'm learning Next.js & Subapase
+* 🧠  I'm learning Next.js & Supabase
 
 <a href="https://www.github.com/jonasluethi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jonasluethi?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
